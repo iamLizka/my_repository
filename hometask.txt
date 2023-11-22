@@ -1,1 +1,14 @@
 изменений нет
+
+commits:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+answer
